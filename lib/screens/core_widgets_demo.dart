@@ -1,9 +1,4 @@
-// =======================================================================
-// BÀI TẬP 1: CORE WIDGETS (TEXT, IMAGE, ICON, CARD, LISTTILE)
-// Sinh viên thực hiện: Hà Hưng Phước
-// Mã sinh viên: 26A4041653
-// Mục tiêu: Xây dựng màn hình minh họa các widget hiển thị cơ bản trong Flutter
-// =======================================================================
+
 
 import 'package:flutter/material.dart';
 
