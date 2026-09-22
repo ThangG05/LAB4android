@@ -1,9 +1,4 @@
-// =======================================================================
-// BÀI TẬP 4: APP STRUCTURE WITH SCAFFOLD, APPBAR, FAB & THEME
-// Sinh viên thực hiện: Hà Hưng Phước
-// Mã sinh viên: 26A4041653
-// Mục tiêu: Xây dựng cấu trúc hoàn chỉnh bằng Scaffold và đổi chủ đề Sáng / Tối
-// =======================================================================
+
 
 import 'package:flutter/material.dart';
 
