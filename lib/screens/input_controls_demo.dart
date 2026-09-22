@@ -1,9 +1,4 @@
-// =======================================================================
-// BÀI TẬP 2: INPUT WIDGETS (SLIDER, SWITCH, RADIOLISTTILE, DATEPICKER)
-// Sinh viên thực hiện: Hà Hưng Phước
-// Mã sinh viên: 26A4041653
-// Mục tiêu: Xây dựng StatefulWidget cho phép người dùng tương tác và cập nhật giá trị
-// =======================================================================
+
 
 import 'package:flutter/material.dart';
 
