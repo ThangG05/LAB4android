@@ -1,9 +1,4 @@
-// =======================================================================
-// BÀI TẬP 3: LAYOUT BASICS (COLUMN, ROW, PADDING, LISTVIEW)
-// Sinh viên thực hiện: Hà Hưng Phước
-// Mã sinh viên: 26A4041653
-// Mục tiêu: Xây dựng bố cục phân chia theo section tương tự màn hình Home thực tế
-// =======================================================================
+
 
 import 'package:flutter/material.dart';
 
