@@ -1,13 +1,4 @@
-// =======================================================================
-// BÀI TẬP 5: DEBUG & FIX COMMON UI ERRORS
-// Sinh viên thực hiện: Hà Hưng Phước
-// Mã sinh viên: 26A4041653
-// Mục tiêu: Khắc phục và giải thích 4 lỗi giao diện thường gặp nhất trong Flutter
-// 1. Sửa lỗi ListView trong Column bằng Expanded
-// 2. Sửa lỗi tràn màn hình (Overflow) bằng SingleChildScrollView
-// 3. Sửa lỗi không cập nhật UI bằng setState()
-// 4. Sửa lỗi BuildContext không hợp lệ khi gọi DatePicker
-// =======================================================================
+
 
 import 'package:flutter/material.dart';
 
